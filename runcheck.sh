@@ -38,5 +38,5 @@ do
 	fi
 #初始化检测参数变量
 		checkget=not test
-	sleep 15m
+	sleep 2m
 done
